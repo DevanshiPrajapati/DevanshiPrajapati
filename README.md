@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-📊 I’m passionate about math and love exploring Data <br>🤖 I’m working on exciting Finance, AI, and Education <br>☁️ I’m currently learning about Cloud Technology and building projects with it  <br>📚 Ask me about my latest research on educational data mining!
-
+📊 I’m passionate about math and love exploring Data <br>🤖 I’m working on exciting Finance, AI, and Education <br>☁️ I’m currently learning about Cloud Technology and building projects with it  <br>📚 Ask me about my latest research on educational data mining! <br> 📍 I'm currently pursuing my Master's in Software Engineering at ASU! 🎓💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devanshiprajapati2002/) 
